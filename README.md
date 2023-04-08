@@ -1,4 +1,4 @@
-# University ERP system
+# University ERP System
 
 ## Client (Front-end): React JS
 
